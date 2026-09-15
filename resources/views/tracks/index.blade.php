@@ -14,13 +14,13 @@
      * Swap these for the real getafixx.com brand hex values whenever
      * you have them handy — everything else references these tokens.
      */
-    --ink: #12141c;
-    --ink-raised: #1a1d29;
-    --paper: #eef0f4;
-    --paper-dim: #8a93a6;
-    --amber: #e8a33d;
-    --rust: #c8553d;
-    --hairline: #2a2e3d;
+    --ink: #333333;
+    --ink-raised: #404040;
+    --paper: #f2f2f0;
+    --paper-dim: #a3a3a3;
+    --amber: #f9a617;
+    --rust: #c17e10;
+    --hairline: #4a4a4a;
   }
 
   * { box-sizing: border-box; }
